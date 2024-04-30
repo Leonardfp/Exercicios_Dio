@@ -9,7 +9,7 @@
 
 
 - [X]  Comandos Terminal
-- [ ]  ..
+- [x]  Controle de Fluxo
 - [ ]  ..
 - [ ]  ..
 
