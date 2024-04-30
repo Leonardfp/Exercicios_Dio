@@ -24,5 +24,6 @@ public class App {
                 + ", Thank you for create a account in our bank, you agencer is " + "0" +
                 cont.getAgency()
                 + " Account " + cont.getNum() + " and your balance $" + cont.getMoney());
+
     }
 }
