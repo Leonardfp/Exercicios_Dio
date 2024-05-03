@@ -10,7 +10,7 @@
 
 - [X]  Comandos Terminal
 - [x]  Controle de Fluxo
-- [ ]  ..
+- [x]  Desafios de laboratório
 - [ ]  ..
 
 ## Authors
